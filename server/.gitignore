@@ -1,0 +1,21 @@
+# Node.js dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debug
+.nyc_output
+coverage
+
+# VSCode
+.vscode/
+
+# Production
+/dist
